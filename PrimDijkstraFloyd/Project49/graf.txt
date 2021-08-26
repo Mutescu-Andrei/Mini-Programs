@@ -1,0 +1,11 @@
+5 7
+Iasi Deva Cluj Sibiu Arad
+ 
+Iasi Deva 10
+Iasi Cluj 5
+Deva Sibiu 45
+Deva Cluj 20
+Sibiu Arad 30
+Arad Iasi 50
+Cluj Arad 60
+
